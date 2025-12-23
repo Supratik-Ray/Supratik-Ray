@@ -1,7 +1,6 @@
 # 💫 About Me:
 📱 Building real-world React Native apps with Expo  <br>🧩 Open to collaborating on React Native projects  <br>🧠 Learning better app architecture and performance patterns  <br> 🛠 Deepening my React Native and mobile development skills  <br> 🗣 Ask me about React, React Native, and JavaScript  <br><br><br>
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/supratik-ray-5284b4306) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/theCodeRay) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raysupratik8@gmail.com) 
 
